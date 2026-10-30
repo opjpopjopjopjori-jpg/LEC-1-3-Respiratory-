@@ -1,0 +1,335 @@
+================================================================================
+RESPIRATORY MEDICINE PAST EXAMINATION QUESTIONS
+Covering: LEC 1, LEC 2, and LEC 3 (Respiratory Failure & Investigations)
+Source File: سنين.pdf
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: Respiratory Investigations & Pulmonary Function Testing (LEC 1)
+--------------------------------------------------------------------------------
+
+Q1 [MCQ]
+Question: Regarding Pulmonary Function Testing (PFT), which of the following statements is INCORRECT?
+Options:
+  A. PEFR is more informative than FEV1 in formal diagnostic assessment of bronchial asthma.
+  B. FEV1 is measured by spirometry.
+  C. Diffusion capacity (DLCO) is reduced in pulmonary fibrosis.
+  D. Total Lung Capacity (TLC) is increased in asthma.
+  E. FEV1/FVC ratio is normal in restrictive lung defect.
+Image Required: No
+Correct Answer: A. PEFR is more informative than FEV1 in formal diagnostic assessment of bronchial asthma.
+Explanation: Spirometry measuring FEV1 and FVC is the definitive gold standard for formal diagnostic assessment of asthma. PEFR is primarily suitable for daily home monitoring.
+
+Q2 [MCQ]
+Question: A 67-year-old woman undergoes pulmonary function tests to evaluate dyspnea. The most prominent finding is a reduction in the ratio of FEV1/FVC (<70%). Which of the following is the most likely diagnosis?
+Options:
+  A. COPD
+  B. Lobar pneumonia
+  C. Pickwickian syndrome
+  D. Ankylosing spondylitis
+  E. Scleroderma of the chest wall
+Image Required: No
+Correct Answer: A. COPD
+Explanation: An FEV1/FVC ratio below 70% defines an obstructive pulmonary defect such as COPD. Restrictive lung diseases maintain a normal or increased ratio.
+
+Q3 [MCQ - PFT Data Interpretation]
+Question: The pulmonary function studies below belong to a 65-year-old man with severe dyspnea and cough:
+  - FEV1: 60% predicted
+  - FVC: 110% predicted
+  - FEV1/FVC: 60%
+  - TLC: 120% predicted
+  - RV: 130% predicted
+  - DLCO: 60% predicted
+Which of the following is the most likely diagnosis?
+Options:
+  A. Emphysema
+  B. Lobar pneumonia
+  C. Chronic bronchitis
+  D. Acute bronchitis
+  E. Congestive heart failure
+Image Required: No
+Correct Answer: A. Emphysema
+Explanation: Airway obstruction (FEV1/FVC = 60%) accompanied by lung hyperinflation (TLC = 120%, RV = 130%) and impaired gas diffusion (DLCO = 60%) specifically points to alveolar destruction seen in emphysema.
+
+Q4 [Short Answer]
+Question: What is a major contraindication for performing rigid bronchoscopy?
+Image Required: No
+Correct Answer: Cervical spine disease / Cervical instability.
+Explanation: Rigid bronchoscopy mandates neck hyperextension, making unstable cervical spine disease or severe cervical arthritis a strict contraindication.
+
+Q5 [MCQ]
+Question: A 45-year-old male presents with fever, cough, and right-sided pleuritic chest pain. Examination shows stony dullness and absent breath sounds at the right lower chest. CXR confirms right pleural effusion. Pleural fluid pH measurement should be obtained if which of the following is suspected?
+Options:
+  A. Tuberculosis
+  B. Pneumonia
+  C. Empyema / Complicated parapneumonic effusion
+  D. Bronchogenic carcinoma
+  E. Rheumatoid arthritis
+Image Required: No
+Correct Answer: C. Empyema / Complicated parapneumonic effusion
+Explanation: Measuring pleural fluid pH is critical when empyema or complicated parapneumonic effusion is suspected; a pH < 7.2 mandates chest tube drainage.
+
+Q6 [MCQ - Scanned Case]
+Question: A 30-year-old previously healthy male is evaluated for cough, right-sided chest pain, and fever of 21 days' duration. Hemoglobin is 14 g/dL, WBC is 8 x 10^9/L. Chest radiograph shows a right pleural effusion occupying 50% of the hemithorax. Pleural fluid aspirate yields an exudate (high LDH, high protein 4.2 g/dL), yellow fluid, with no malignant cells. Which of the following is the most appropriate next step in management?
+Options:
+  A. Chest CT scan
+  B. Flexible bronchoscopy
+  C. Repeat chest radiograph after a 5-day course of azithromycin
+  D. Pleural biopsy
+  E. Waiting for spontaneous improvement
+Image Required: Yes
+Image Description: Rotated photo snippet of a printed exam sheet detailing a clinical case of an exudative pleural effusion.
+Correct Answer: A. Chest CT scan
+Explanation: High-resolution CT scan of the chest evaluates underlying parenchymal lung pathology and pleural thickening when initial aspiration is non-diagnostic.
+
+Q7 [MCQ]
+Question: The following drugs are likely to produce pulmonary fibrosis EXCEPT:
+Options:
+  A. Bleomycin
+  B. Aspirin
+  C. Amiodarone
+  D. Bromocriptine
+  E. Penicillamine
+Image Required: Yes
+Image Description: Printed photo of a Final Exam 2017 paper heading listing pulmonary fibrosis drug causes.
+Correct Answer: B. Aspirin
+Explanation: Bleomycin, Amiodarone, Bromocriptine, and Penicillamine cause interstitial pulmonary fibrosis. Aspirin causes bronchospasm rather than fibrotic lung disease.
+
+Q8 [MCQ]
+Question: A 33-year-old farmer complains of recurrent episodes of shortness of breath after working in a barn where hay is stored. On auscultation, there are bibasilar crackles. CXR reveals patchy lower lobe infiltrates. Which of the following is true regarding this condition?
+Options:
+  A. The treatment is systemic steroid
+  B. The condition is usually irreversible
+  C. The CBC will show neutrophil leukocytosis
+  D. The condition is due to viral infection
+Image Required: Yes
+Image Description: Screenshot from a Google Forms quiz sheet regarding Farmer's lung / Hypersensitivity pneumonitis.
+Correct Answer: A. The treatment is systemic steroid
+Explanation: Farmer's lung is an acute/subacute Hypersensitivity Pneumonitis caused by inhaling thermophilic actinomycetes. Antigen avoidance and systemic corticosteroids are the mainstay of therapy.
+
+--------------------------------------------------------------------------------
+SECTION 2: Respiratory Failure Types & Pathophysiology (LEC 2)
+--------------------------------------------------------------------------------
+
+Q9 [MCQ]
+Question: What is the primary pathogenetic mechanism responsible for Type I Respiratory Failure?
+Options:
+  A. Alveolar hypoventilation
+  B. Ventilation-Perfusion (V/Q) mismatching
+  C. Hypercapnia
+  D. Increased dead space ventilation
+  E. Diffusion impairment alone
+Image Required: No
+Correct Answer: B. Ventilation-Perfusion (V/Q) mismatching
+Explanation: Type I Respiratory Failure is defined by hypoxemia with normal or low PaCO2, predominantly caused by V/Q mismatch.
+
+Q10 [MCQ]
+Question: What is the main pathogenetic factor in the production of Type II Respiratory Failure?
+Options:
+  A. Alveolar hypoventilation
+  B. V/Q mismatching
+  C. Isolated diffusion block
+  D. Pulmonary embolism
+  E. Decreased cardiac output
+Image Required: No
+Correct Answer: A. Alveolar hypoventilation
+Explanation: Type II Respiratory Failure is defined by hypoxemia associated with hypercapnia (PaCO2 > 45 mmHg), driven primarily by generalized alveolar hypoventilation.
+
+Q11 [MCQ]
+Question: All of the following are recognized causes of Type II Respiratory Failure EXCEPT:
+Options:
+  A. COPD
+  B. Guillain-Barré syndrome & Myasthenia Gravis
+  C. Kyphoscoliosis & Flail chest
+  D. Acute Pulmonary Embolism
+  E. Opiate overdose / Anesthesia
+Image Required: No
+Correct Answer: D. Acute Pulmonary Embolism
+Explanation: Acute Pulmonary Embolism causes vascular occlusion and V/Q mismatch leading to Type I Respiratory Failure, whereas COPD, neuromuscular disorders, and chest wall deformities cause Type II Failure.
+
+Q12 [MCQ]
+Question: Which clinical manifestation is specifically attributed to Hypercapnia (CO2 retention) in Type II Respiratory Failure?
+Options:
+  A. Central cyanosis
+  B. Restlessness and agitation
+  C. Morning headache, drowsiness, flapping tremor (asterixis), and confusion
+  D. Tachypnea
+  E. Tachycardia
+Image Required: No
+Correct Answer: C. Morning headache, drowsiness, flapping tremor (asterixis), and confusion
+Explanation: Hypercapnia induces cerebral vasodilation causing morning headaches, and severe hypercapnia causes neuro-depression resulting in drowsiness, asterixis, and CO2 narcosis.
+
+Q13 [MCQ]
+Question: A 72-year-old man with COPD develops acute shortness of breath. Chest examination reveals absent tactile fremitus, absent breath sounds, and hyper-resonance to percussion over the right lung, with tracheal shift to the left. What is the diagnosis?
+Options:
+  A. Acute asthmatic attack
+  B. Complete / Tension Pneumothorax
+  C. Large pleural effusion
+  D. Atelectasis
+  E. Lobar pneumonia
+Image Required: No
+Correct Answer: B. Complete / Tension Pneumothorax
+Explanation: Unilateral hyper-resonance, absent breath sounds, and tracheal deviation away from the affected side indicate tension pneumothorax.
+
+Q14 [MCQ - ECG Correlation]
+Question: A 46-year-old man presents with acute onset of shortness of breath. Pulmonary embolism is suspected. Which ECG pattern is classically seen?
+Options:
+  A. Inverted T-waves in lead I and tall T-waves in lead III
+  B. Deep S-wave in lead I, deep Q-wave in lead III, and inverted T-wave in lead III (S1Q3T3)
+  C. Flattened T-wave in lead I and ST elevation in lead V1
+  D. Isolated sinus bradycardia
+  E. Normal ECG in all cases
+Image Required: Yes
+Image Description: Scanned image of an exam paper question with red handwriting underlining S1Q3T3.
+Correct Answer: B. Deep S-wave in lead I, deep Q-wave in lead III, and inverted T-wave in lead III (S1Q3T3)
+Explanation: Acute right ventricular strain from pulmonary embolism produces sinus tachycardia and the classic S1Q3T3 ECG pattern.
+
+Q15 [MCQ]
+Question: Which of the following is NOT a criterion of COPD exacerbation?
+Options:
+  A. Fever
+  B. Chest pain
+  C. Increased sputum production
+  D. Change in color of sputum
+  E. Dyspnea
+Image Required: No
+Correct Answer: B. Chest pain
+Explanation: The Anthonisen criteria for COPD exacerbation consist of increased dyspnea, increased sputum volume, and sputum purulence. Pleuritic chest pain is not a criterion.
+
+Q16 [MCQ - Clinical Scenario]
+Question: An elderly patient with long-standing COPD presents with a plethoric face, BP 140/80 mmHg, HR 90 bpm, hepatomegaly (liver span 18 cm), raised JVP, and bilateral leg edema. He has dyspnea on minimal exertion, temp 37°C with no change in sputum. What is the diagnosis?
+Options:
+  A. Lung carcinoma
+  B. Cor pulmonale
+  C. Acute exacerbation of COPD
+Image Required: Yes
+Image Description: Screenshot of a numbered digital quiz question with a red underline beneath "corpulmonary".
+Correct Answer: B. Cor pulmonale
+Explanation: Right ventricular failure secondary to chronic hypoxic pulmonary hypertension (Cor pulmonale) manifests with JVP elevation, tender hepatomegaly, and peripheral edema.
+
+Q17 [MCQ]
+Question: In bronchial asthma, all of the following complications are recognized EXCEPT:
+Options:
+  A. Pneumothorax
+  B. Metabolic alkalosis
+  C. Cardiac arrhythmias
+  D. Segmental collapse
+  E. Pulmonary hypertension
+Image Required: Yes
+Image Description: Photo of an exam paper bearing the stamp of Dr. Hussein Al-Jasmi.
+Correct Answer: B. Metabolic alkalosis
+Explanation: Severe asthma flares cause respiratory alkalosis (due to hyperventilation) or respiratory acidosis (due to exhaustion/CO2 retention), but not metabolic alkalosis.
+
+--------------------------------------------------------------------------------
+SECTION 3: Management, Oxygen Therapy, ARDS & Mechanical Ventilation (LEC 3)
+--------------------------------------------------------------------------------
+
+Q18 [MCQ]
+Question: A 53-year-old man with a long respiratory history of COPD is admitted for shortness of breath and started on therapy. The next day he is found confused and sleepy with a PaCO2 of 70 mmHg. Which explanation accounts for his deterioration?
+Options:
+  A. Occurs only with CO2 inhalation
+  B. Does not occur in obstructive lung disease
+  C. Does not occur in restrictive lung disease
+  D. May worsen with oxygen administration
+  E. Occurs with chronic hypocapnia
+Image Required: No
+Correct Answer: D. May worsen with oxygen administration
+Explanation: Administering high uncontrolled oxygen in COPD suppresses the hypoxic respiratory drive and worsens V/Q mismatch, triggering acute severe hypercapnia and drowsiness.
+
+Q19 [MCQ]
+Question: A 70-year-old patient with COPD develops respiratory acidosis with CO2 retention and hypercapnic encephalopathy while receiving oxygen. What is the treatment of choice?
+Options:
+  A. Stop oxygen completely
+  B. Give high-dose sedatives
+  C. Intubate and begin mechanical ventilation
+  D. Observe patient for 24 hours
+  E. Begin sodium bicarbonate
+Image Required: No
+Correct Answer: C. Intubate and begin mechanical ventilation
+Explanation: Severe hypercapnia with coma and respiratory acidosis requires ventilatory support (NIV or endotracheal intubation) to re-establish alveolar ventilation.
+
+Q20 [MCQ - Emergency ER Case Part 1]
+Question: An asthmatic patient attends the ER at 4 AM with severe dyspnea. Examination reveals cyanosis, feeble respiratory effort, bradycardia, hypotension, exhaustion, and a silent chest. What is the FIRST step in treatment?
+Options:
+  A. Call anesthetist for endotracheal intubation
+  B. High flow and uncontrolled oxygen
+  C. High dose diuretic
+  D. Bolus dose of hydrocortisone
+  E. High doses of inhaled bronchodilators
+Image Required: Yes
+Image Description: Scanned exam paper showing a multi-part emergency room case on severe life-threatening asthma.
+Correct Answer: A. Call anesthetist for endotracheal intubation
+Explanation: Feeble respiratory effort, bradycardia, hypotension, and a silent chest indicate life-threatening asthma with impending respiratory arrest requiring urgent intubation.
+
+Q21 [MCQ - Emergency ER Case Part 2]
+Question: For the emergency asthmatic patient described above in life-threatening respiratory failure, what is the most important laboratory investigation to perform immediately?
+Options:
+  A. Blood gas analysis (ABG)
+  B. Troponin test
+  C. ECG
+  D. Chest X-ray
+  E. Chest ultrasonography
+Image Required: No
+Correct Answer: A. Blood gas analysis (ABG)
+Explanation: Arterial Blood Gas (ABG) is essential to evaluate the severity of hypoxemia, hypercapnia, and acid-base disturbances.
+
+Q22 [MCQ - Emergency ER Case Part 3]
+Question: Which of the following is the most likely acute thoracic complication in a patient with severe asthmatic exacerbation on mechanical ventilation?
+Options:
+  A. Pleural effusion
+  B. Pulmonary edema
+  C. Myocardial infarction
+  D. Pulmonary embolism
+  E. Pneumothorax
+Image Required: No
+Correct Answer: E. Pneumothorax
+Explanation: High inflation pressures and severe air trapping during mechanical ventilation in asthma predispose to barotrauma and pneumothorax.
+
+Q23 [MCQ]
+Question: Which one of the following is a recognized life-threatening feature of acute bronchial asthma?
+Options:
+  A. Cyanosis
+  B. PEF 33–50% predicted
+  C. Respiratory rate >= 25/min
+  D. Heart rate >= 110/min
+  E. Inability to complete sentences in 1 breath
+Image Required: Yes
+Image Description: Exam question image with green handwriting stating "Cyanosis = life threatening feature".
+Correct Answer: A. Cyanosis
+Explanation: Cyanosis, silent chest, bradycardia, hypotension, and exhaustion define Life-Threatening Asthma, whereas options B, C, D, and E define Acute Severe Asthma.
+
+Q24 [MCQ]
+Question: Regarding mechanical ventilation in ARDS, why is positive pressure (such as PEEP) required?
+Options:
+  A. Damage to type II pneumocytes causes decreased surfactant, requiring positive pressure to keep alveoli inflated and push fluid away from airspaces
+  B. To lower systemic arterial pressure
+  C. To induce direct bronchodilation
+  D. To treat metabolic alkalosis
+  E. To replace oxygen therapy completely
+Image Required: No
+Correct Answer: A. Damage to type II pneumocytes causes decreased surfactant, requiring positive pressure to keep alveoli inflated and push fluid away from airspaces
+Explanation: ARDS causes loss of type II pneumocytes and surfactant deficiency, leading to alveolar collapse; continuous positive pressure (PEEP) maintains alveolar inflation.
+
+Q25 [MCQ]
+Question: Regarding oxygen therapy in Type I respiratory failure, what is the constraint on administering pure high-concentration oxygen (100% O2)?
+Options:
+  A. Pure O2 can be given indefinitely
+  B. Pure O2 should not be given for more than 24 hours because it is irritant/toxic to lung tissue
+  C. High concentration O2 is contraindicated in Type I RF
+  D. O2 therapy should only be given at night
+  E. O2 concentration must not exceed 21%
+Image Required: No
+Correct Answer: B. Pure O2 should not be given for more than 24 hours because it is irritant/toxic to lung tissue
+Explanation: High concentrations of pure oxygen (100% O2) for >24 hours lead to hyperoxic lung injury and absorption atelectasis.
+
+Q26 [MCQ]
+Question: Which group of medications MUST BE AVOIDED in patients with COPD who are at risk of Type II respiratory failure?
+Options:
+  A. Sedatives / Hypnotics
+  B. Inhaled Anticholinergics
+  C. Short-acting beta-agonists (SABA)
+  D. Systemic Corticosteroids
+  E. Antibiotics
+Image Required: No
+Correct Answer: A. Sedatives / Hypnotics
+Explanation: Sedatives suppress the central respiratory center, worsening hypoventilation and hypercapnia in patients with Type II respiratory failure.
